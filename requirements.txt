@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+pandas
+numpy
+plotly.express
+streamlit-option-menu
+time
+altair
