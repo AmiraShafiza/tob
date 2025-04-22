@@ -1,7 +1,7 @@
 streamlit
+matplotlib
 pandas
-altair
-plotly.express
-time
 numpy
-plotly
+plotly.express
+streamlit-option-menu
+time
