@@ -4,3 +4,4 @@ altair
 plotly.express
 time
 numpy
+plotly
